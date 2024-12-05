@@ -1,0 +1,43 @@
+.yash{
+    width: 500px;
+    height: 500px;
+    border: solid black;
+    border-radius: 20px;
+    margin-left: 475px;
+    box-shadow: 2px 2px 10px black;
+    background-size: cover;
+       
+   
+   }   
+   
+   video{
+   
+       width: 500px;
+       height: 500px;
+       border-radius: 20px;
+   
+     
+      
+   }
+   h1{
+   
+       font-size: 4em;
+       text-transform: uppercase;
+       text-align: center;
+     }
+    .div2{
+   
+   
+   
+       margin-top: 200px;
+    }
+    img{
+   
+        width: 500px;
+        height: 500px;
+        border-radius: 20px;
+    
+      
+       
+    }
+     
